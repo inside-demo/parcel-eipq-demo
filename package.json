@@ -1,0 +1,26 @@
+{
+  "name": "parcel-eipq-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inside-demo/parcel-eipq-demo.git"
+  },
+  "keywords": [],
+  "author": "scrum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inside-demo/parcel-eipq-demo/issues"
+  },
+  "homepage": "https://github.com/inside-demo/parcel-eipq-demo#readme",
+  "dependencies": {
+    "post-sequence": "^0.1.12",
+    "posthtml-expressions": "^1.1.1",
+    "posthtml-include": "^1.2.0"
+  },
+  "devDependencies": {}
+}
