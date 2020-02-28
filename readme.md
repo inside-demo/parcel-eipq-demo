@@ -5,4 +5,4 @@
 $ npm starst
 ```
 
-and open http://localhost:1234  in browser.
+> http://localhost:1234  in browser.
